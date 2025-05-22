@@ -1,0 +1,16 @@
+langchain
+llama-index
+sentence-transformers
+chromadb
+faiss-cpu
+transformers
+accelerate
+bitsandbytes
+evaluate
+scikit-learn
+peft
+tqdm
+pandas
+datasets
+cross-encoder
+matplotlib
